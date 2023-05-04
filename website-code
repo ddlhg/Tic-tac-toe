@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Resume</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<main>
+
+  <body>
+    <div>
+      <h1>DANIELA HERRERA</h1>
+      <table>
+        <tr>
+          <th style="width:25%" rowspan="4"><img src="IMG_1015.jpg" alt="photoDaniela" width="50" class="avatar"></th>
+          <th style="width:75%">
+            <p style="color:#B1D0E0">I was born and raised in Colombia. When I was 18, I decided to move to the United
+              States in 2017. For a while, I wanted to be a graphic designer, but once I took an intro course in
+              programming, I changed my mind. Now I not only can create programs but also style them.</p>
+          </th>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Section links -->
+    <div>
+      <table>
+        <tr>
+          <th style="width:300px"><a href="#education"><strong>Education</strong></a></th>
+          <th style="width:300px"><a href="#employment"><strong>Employment</strong></a></th>
+          <th style="width:300px"><a href="#skills"><strong>Skills</strong></a></th>
+          <th style="width:300px"><a href="#contact"><strong>Contact</strong></a></th>
+        </tr>
+      </table>
+    </div>
+    <!-- Education -->
+    <div style=background-color:#B1D0E0>
+      <section id="education">
+        <h2>EDUCATION</h2>
+        <table>
+          <tr>
+            <td style="width:50%">
+              <p style="color:#6998AB"><strong>ASSOCIATE OF ARTS, </strong><small><span style="color:black">DEC 2021</span></small></p>
+              <p style="color:#6998AB">PALM BEACH STATE COLLEGE</p>
+            </td>
+            <td style="width:50%" rowspan="4"><img src="IMG_0376.jpg" alt="photoDiploma" width="50" class="center"></td>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>Dean's List Honoree.</li>
+                <li>Overall GPA: <u>3.89</u></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <p style="color:#6998AB"><strong>BACHELOR OF SCIENCE IN COMPUTER SCIENCE, </strong><small><span style="color:black">CURRENT</span></small>
+        </p>
+        <p style="color:#6998AB">FLORIDA ATLANTIC
+          UNIVERSITY</p>
+        <ul>
+          <li>Overall GPA: <u>3.86</u></li>
+        </ul>
+      </section>
+    </div>
+    <!-- Employment-->
+    <div style=background-color:#6998AB;">
+      <section id="employment">
+        <h2 style="color:white">WORK EXPERIENCE</h2>
+        <p style="text-indent: 30px"><strong>HEAD CASHIER,</strong> THE HOME DEPOT</p>
+        <p style="text-indent: 30px"><small>APR 2021 - SEPT 2021</small></p>
+        <ul>
+          <li>Cultivated a pleasant and cooperative work environment.</li>
+          <li>Monitored customer flow, and adapted cashier assignments to minimize wait times.</li>
+          <li>Train workers on store policies and performance standards to maintain optimal customer service.</li>
+        </ul>
+        <p style="text-indent: 30px"><strong>CASHIER,</strong> THE HOME DEPOT</p>
+        <p style="text-indent:30px"><small>JAN 2021 - APR 2021</small></p>
+        <ul>
+          <li>Handled checks, debit and credit cards, product coupons, and gift certificates.</li>
+          <li>Greeted all customers and provided prompt friendly service.</li>
+          <li>Obtained through knowledge of products to assist customers.</li>
+        </ul>
+        <p style="text-indent: 30px"><strong>CASHIER/COOK,</strong> TOSSED & WRAPPED </p>
+        <p style="text-indent: 30px"><small>MAY 2018 - FEB 2019</small></p>
+        <ul>
+          <li>Stocked sufficient levels of food at line stations to maintain efficient service.</li>
+          <li>Cleaned kitchen areas and equipment regularly to uphold high professional standards.</li>
+        </ul>
+      </section>
+    </div>
+    <!-- Skills -->
+    <div style=background-color:#B1D0E0;">
+      <section id="skills">
+        <h2>SKILLS</h2>
+        <ul>
+          <li>Fluent in Spanish.</li>
+          <li>Knowledge in:</li>
+          <ul>
+            <li>C and C++ languages.</li>
+            <li>Microsoft Office programs.</li>
+            <li>POS system operation.</li>
+          </ul>
+          <li>Cash handling.</li>
+        </ul>
+      </section>
+    </div>
+    <!-- Contact -->
+    <div style=background-color:#1A374D;>
+      <section id="contact">
+        <table style="width:100%">
+          <tr>
+            <td><strong>CONTACT ME:</strong></td>
+            <td><a href="tel:561-225-0232">561-225-0232</a></td>
+            <td><a href="mailto:dherrera2022@fau.edu">dherrera2022@fau.edu</a></td>
+            <td><a href="https://www.linkedin.com/in/daniela-herrera-078759157/">LinkedIn</td>
+          </tr>
+        </table>
+      </section>
+    </div>
+  </body>
+</main>
+<footer>
+  <p style="color:black">&copy;2022 Daniela Herrera Resume</p>
+</footer>
+
+</html>
