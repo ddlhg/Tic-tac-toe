@@ -4,6 +4,7 @@
 ### Languages and Utilities Used
 - HTML
 - CSS
+- Visual Studio code editor
 ### Enviroments Used
 - Windows 10
-## Program Walk-through 
+## Program Walk-through
