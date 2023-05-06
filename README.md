@@ -9,4 +9,6 @@
 ### Enviroments Used
 - Windows 10
 ## Program Walk-through
-Initial look of website 
+                Initial look of website 
+
+![Screenshot](https://user-images.githubusercontent.com/116442206/236632229-42355b37-7abc-4f09-90e9-f02ecfec01bf.png)
