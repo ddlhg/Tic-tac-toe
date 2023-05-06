@@ -1,6 +1,7 @@
 # Tic-tac-toe
 ### Description
-- Project consists of creating a website where two users can play the classic game of Tic-Tac-Toe.
+- This project consists of developing a user-friendly website that allows users to play the classic game of Tic Tac Toe. 
+
 ### Languages and Utilities Used
 - HTML
 - CSS
@@ -8,4 +9,4 @@
 ### Enviroments Used
 - Windows 10
 ## Program Walk-through
-![website screenshot](picture.png)
+Initial look of website 
