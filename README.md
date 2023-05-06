@@ -5,6 +5,7 @@
 ### Languages and Utilities Used
 - HTML
 - CSS
+- Javascript
 - Visual Studio code editor
 ### Enviroments Used
 - Windows 10
